@@ -1,0 +1,12 @@
+*-*-*-*-*-*-*--*-*CountrySide Movie Theater*-*-*-*-*-*-*-*-*-*
+Movie Code: AS11
+Movie Name: Avengers
+Release Date: 04/15/2019
+Tie: 8:00am
+Rating: Rated R
+Genre: fiction
+Category: 2D,3D
+Auditorium: audi3
+Seats: platinum
+Price: 350
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
